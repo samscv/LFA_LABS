@@ -1,7 +1,7 @@
 # LAB 2 : Finite Automata
 
 ### Course: Formal Languages & Finite Automata
-### Author: Siminuc Catalina
+### Author: Siminiuc Catalina
 
 ----
 
